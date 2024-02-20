@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ece49c8-6021-4562-aa48-2ab6001e6a02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Antivirus.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/antivirus..py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_to_scan/How to Run this Program.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_to_scan/New Text Document.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_to_scan/cyber 1st month.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/md5_hash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarantine/malware.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
